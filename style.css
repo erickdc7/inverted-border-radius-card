@@ -34,4 +34,5 @@ body {
   width: 100%;
   height: 200px;
   background: #f00;
+  border-radius: 15px;
 }
