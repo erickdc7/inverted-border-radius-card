@@ -18,3 +18,10 @@ body {
   min-height: 100vh;
   background: var(--clr);
 }
+
+.card {
+  position: relative;
+  width: 320px;
+  height: 430px;
+  background: #fff;
+}
