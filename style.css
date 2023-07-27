@@ -30,7 +30,7 @@ body {
 
 .card .box {
   position: relative;
-  width: 100%;
+  width: 110%;
   height: 200px;
   background: #f00;
   border-radius: 15px;
