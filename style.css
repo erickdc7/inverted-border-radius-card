@@ -41,3 +41,15 @@ body {
   height: 220px;
   width: 100%;
 }
+
+.card .circle {
+  position: absolute;
+  top: 50%;
+  left: -70px;
+  transform: translateY(-50%);
+  width: 180px;
+  height: 180px;
+  background: #0f0;
+  border-radius: 50%;
+  border: 10px solid var(--clr);
+}
