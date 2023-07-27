@@ -38,4 +38,6 @@ body {
 
 .card .box:nth-child(2) {
   background: #fff;
+  height: 220px;
+  width: 100%;
 }
