@@ -23,7 +23,6 @@ body {
   position: relative;
   width: 320px;
   height: 430px;
-  background: #fff;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
