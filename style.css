@@ -68,6 +68,19 @@ body {
   width: 100%;
 }
 
+.card .box:nth-child(2)::before {
+  content: "";
+  position: absolute;
+  bottom: 106px;
+  left: -1px;
+  background: transparent;
+  width: 20px;
+  height: 20px;
+  z-index: 10;
+  border-top-left-radius: 20px;
+  box-shadow: -6px -6px var(--clr);
+}
+
 .card .circle {
   position: absolute;
   top: 50%;
