@@ -25,3 +25,10 @@ body {
   height: 430px;
   background: #fff;
 }
+
+.card .box {
+  position: relative;
+  width: 100%;
+  height: 200px;
+  background: #f00;
+}
