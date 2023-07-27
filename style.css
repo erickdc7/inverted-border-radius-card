@@ -10,3 +10,11 @@
 :root {
   --clr: #083d41;
 }
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: var(--clr);
+}
