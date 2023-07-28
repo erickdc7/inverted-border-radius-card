@@ -105,7 +105,8 @@ body {
   border: 10px solid var(--clr);
 }
 
-.card .circle .imgBx {
+.card .circle .imgBx,
+.card .box .imgBx {
   position: absolute;
   inset: 0;
   overflow: hidden;
