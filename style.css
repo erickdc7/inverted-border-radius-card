@@ -105,3 +105,10 @@ body {
   border-radius: 50%;
   border: 10px solid var(--clr);
 }
+
+.card .circle .imgBx {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  border-radius: 50%;
+}
