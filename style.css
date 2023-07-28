@@ -124,3 +124,12 @@ body {
   height: 100%;
   object-fit: cover;
 }
+
+.card .box .content {
+  position: absolute;
+  inset: 0;
+  padding: 30px 10px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
