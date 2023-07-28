@@ -113,6 +113,10 @@ body {
   border-radius: 50%;
 }
 
+.card .box .imgBx {
+  border-radius: 15px;
+}
+
 .card .circle .imgBx img {
   position: absolute;
   width: 100%;
