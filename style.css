@@ -144,3 +144,11 @@ body {
   line-height: 1.1em;
   color: #333;
 }
+
+.card .box .content h2 span {
+  font-size: 0.75em;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  color: #e91e63;
+  text-transform: initial;
+}
