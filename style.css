@@ -182,3 +182,22 @@ body {
   font-size: 1.65em;
   color: #333;
 }
+
+.card .box .content button {
+  position: relative;
+  top: 25px;
+  padding: 8px 30px;
+  border: none;
+  outline: none;
+  background: #03a9f4;
+  border-radius: 30px;
+  color: #fff;
+  font-size: 1em;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-weight: 500;
+  cursor: pointer;
+  border: 5px solid var(--clr);
+  box-shadow: 0 0 0 10px #fff;
+  transition: 0.5s;
+}
