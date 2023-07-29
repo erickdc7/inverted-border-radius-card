@@ -237,4 +237,9 @@ body {
     top: 3px;
     right: -33px;
   }
+
+  .card .box .content button::before {
+    top: 3px;
+    left: -33px;
+  }
 }
