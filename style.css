@@ -177,3 +177,8 @@ body {
 .card .box .content ul li:not(:last-child) {
   border-right: 1px solid #ccc;
 }
+
+.card .box .content ul li span {
+  font-size: 1.65em;
+  color: #333;
+}
