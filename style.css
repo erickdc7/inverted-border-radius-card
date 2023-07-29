@@ -201,3 +201,8 @@ body {
   box-shadow: 0 0 0 10px #fff;
   transition: 0.5s;
 }
+
+.card .box .content button:hover {
+  letter-spacing: 0.5em;
+  background: #ff3d7f;
+}
