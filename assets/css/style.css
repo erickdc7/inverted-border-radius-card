@@ -233,4 +233,8 @@ body {
 }
 
 @media screen and (max-width: 460px) {
+  .card .box .content button::after {
+    top: 3px;
+    right: -33px;
+  }
 }
